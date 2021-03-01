@@ -1,0 +1,31 @@
+.jumbotron {
+    background-image: url(img/tetet.jpg);
+    background-size: cover;
+    height: 400px;
+    margin-top: -120px;
+}
+.jumbotron .display-4 {
+    color: blue;
+    margin-top: 120px;
+    text-align: left;
+    font-size: 30px;
+}
+.jumbotron p { 
+    color: #006bb3;
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: left;
+    
+}
+.jumbotron hr {
+    border-color: #adcee9;
+}
+.jumbotron .btn {
+    background-color: rgb(89, 175, 233);
+    border: none;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 965px;
+    font-size: medium;
+}
